@@ -49,8 +49,8 @@ Users should be able to:
 
 ### What I learned
 
--I got a better understanding of positioning by making the mobile navbar fixed as well as the lightbox. 
--I learned about different functionalities like making carousels, lightboxes, viewport fixed navbars and shopping carts
+- I got a better understanding of positioning by making the mobile navbar fixed as well as the lightbox. 
+- I learned about different functionalities like making carousels, lightboxes, viewport fixed navbars and shopping carts
 
 
 ### Useful resources
