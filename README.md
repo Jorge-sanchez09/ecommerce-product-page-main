@@ -33,8 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://kriosaber.github.io/ecommerce-product-page-main/)
 
 ## My process
 
@@ -46,20 +45,22 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Autoprefixer
+- JavaScript
+- Local Storage
 
 ### What I learned
 
 - I got a better understanding of positioning by making the mobile navbar fixed as well as the lightbox. 
-- I learned about different functionalities like making carousels, lightboxes, viewport fixed navbars and shopping carts
+- I learned about different functionalities in general, like making carousels, lightboxes, viewport fixed navbars and shopping carts
+- The use of the Intl object for currency number formatting
 
 
 ### Useful resources
 
 - [Change Color of SVG on Hover](https://css-tricks.com/change-color-of-svg-on-hover/) - This helped me to understand a little more about how svg works with CSS and HTML. 
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Kriosaber](https://www.frontendmentor.io/profile/Kriosaber)
 
